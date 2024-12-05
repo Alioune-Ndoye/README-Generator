@@ -87,6 +87,7 @@ This Challenge is graded based on the following criteria:
 * The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
 
 * The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
+* https://app.screencastify.com/v2/manage/videos/FY1IcxildOqYC1ZaEfC1
 
 ### Technical Acceptance Criteria: 40%
 
