@@ -22,7 +22,7 @@ This is a command-line application that dynamically generates a professional REA
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <git@github.com:Alioune-Ndoye/README-Generator.git>
    cd <repository_directory>
 Install dependencies:
 Bash
